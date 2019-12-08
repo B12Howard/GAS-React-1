@@ -1,5 +1,5 @@
 ## Reat App 1
-This uses enuchi's excellent [React + Google Apps Script] (https://github.com/enuchi/React-Google-Apps-Script) as a starting point for this project.
+This uses enuchi's excellent [React + Google Apps Script](https://github.com/enuchi/React-Google-Apps-Script) as a starting point for this project.
 
 ## React + Google Apps Script
 *Use this demo project as your boilerplate React app for HTML dialogs in Google Sheets, Docs and Forms.*
